@@ -10,6 +10,6 @@ int main()
     a=3.1415926*r*r;
     printf("The area of circle is :%.4f\n",a);
     c=2*3.1415926*r;
-    printf("the zhouchang is :%.4f\n",c);
+    printf("the perimeter is :%.4f\n",c);
     return 0;
 }
